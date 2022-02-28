@@ -31,7 +31,7 @@ int main()
 
     if(flag == 1)
     {
-        printf("\n%d is found at position %d", key, i + 1);
+        printf("\n%d is found", key);
     }
     else
     {
